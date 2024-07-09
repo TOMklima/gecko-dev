@@ -143,9 +143,9 @@
     "@puppeteer/browsers": "1.7.0",
     "chromium-bidi": "0.4.26",
     "cross-fetch": "4.0.0",
-    "debug": "4.3.4",
+    "debug": "4.3.5",
     "devtools-protocol": "0.0.1159816",
-    "ws": "8.14.0"
+    "ws": "8.17.1"
   },
   "devDependencies": {
     "disposablestack": "1.1.1",
